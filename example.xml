@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Forecast Error</title><meta name="title" content="Forecast Error" /><meta name="description" content="The National Weather Service is your best source for complete weather forecast and weather related information on the web!" /><meta name="keywords" content="weather, local weather forecast, local forecast, weather forecasts, local weather, radar, fire weather, center weather service units, JetStream" /><meta name="rating" content="General" /><meta name="DC.publisher" content="National Weather Service" /><meta name="DC.contributor" content="National Weather Service" /><meta name="DC.rights" content="http://www.weather.gov/disclaimer.php" /><meta name="DC.author" content="National Weather Service" /><meta name="robots" content="index,follow" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><link rel="stylesheet" type="text/css" href="../wtf/main_041007.css" media="screen" /><link rel="stylesheet" type="text/css" href="../wtf/print_041007.css" media="print" /><style type="text/css">#menuitem A:link {color: white; text-decoration: none;}A:link {color: #0000FF; text-decoration: none;}#menuitem A:Visited {color: #FFFFFF;}A:Visited  {color: #003399; text-decoration: none;}#menuitem A:hover {color : #F0E68C; text-decoration : underline;}A:hover {color : #FF0000; text-decoration : underline;}.title_small_bold {font-size:1.2em; color:#FFFFFF; font-weight:bold;}.white a {color:white; text-decoration:none;}.white a:hover {color:#F0E68C; text-decoration:underline;}.warn {font-weight : bold; color : Red; text-decoration : underline;}.yellowlink {font-weight : bold; color : color : #F0E68C;}.big {font-family : Arial, Helvetica, San Serif; font-size : 12pt; color : #000080; font-weight : bold;}.blue1 {font-family : Arial, Helvetica, San Serif; font-size : 10pt; color : #000080; font-weight : bold;}.title_med1 {font-size:1.8em; color:#FFFFFF; font-weight:bold; background-color:transparent; padding-top:.4em;}.title_med2 {font-size:2.0em; color:#FFFFFF; font-weight:bold; background-color:transparent; padding-top:.4em;}td {font-size : 9pt; font-family : Arial, Helvetica, San Serif;}</style><link href="/images/favicon.ico" rel="shortcut icon" /></head><body class="nav800"><div class="header800"><div class="rightalign noprint"><a href="#contents" class="skipnav" accesskey="2"></a>&nbsp;<a href="http://www.weather.gov" title="Go to the NWS Homepage">weather.gov</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><span class="title_small_bold">National Oceanic and Atmospheric Administration's</span><br /><br /><span class="title_med2">National Weather Service</span></div><div id="noaalogo"><img src="noaalogo.jpg" width="70" height="70" alt="" /></div><div id="nwslogo"><img src="new-nws.jpg" width="70" height="70" alt="" /></div><div id="noaalink"><a href="http://www.noaa.gov"><img src="http://radar.weather.gov/ridge/graphics/noaalink.gif" alt="Go to the NOAA Homepage" width="80" height="80" /></a></div><div id="nwslink800"><a href="http://www.nws.noaa.gov"><img src="http://radar.weather.gov/ridge/graphics/noaalink.gif" alt="NWS Homepage" width="80" height="80" /></a></div><div id="topnav800"><table cellspacing="0" cellpadding="0" border="0" class="yellow" width="100%" summary=""><tr align="center"><td align="left" class="topnav670"><a href="http://www.weather.gov/" class="navbar"><span class="yellow">Home</span></a></td><td class="topnav800"><a href="http://www.nws.noaa.gov/pa/" class="navbar"><span class="yellow">News</span></a></td><td class="topnav800"><a href="http://www.weather.gov/organization.php" class="navbar"><span class="yellow">NWS Offices</span></a></td><td class="topnav800"><label for="search">Search</label>&nbsp;<input type="hidden" name="affiliate" value="nws.noaa.gov" /><input type="hidden" name="v:project" value="firstgov" /><input class="searchinput" name="query" type="text" value="Enter Search Here" size="20" maxlength="256" id="search" onfocus="if(this.value=='enter search here')this.value='';" />&nbsp;<input class="searchinput" type="submit" value="Go" /><form method="get" action="http://firstgovsearch.gov/search" style="margin-bottom:0; margin-top:0;"></form></td></tr></table></div><div id="mainnav800"><table border="0" align="center"><tr><td><br><br><span class="big">A point forecast is unavailable for the requested location</span><br><br><form><input type="button" value="Back to Previous Page" onClick="history.back()"></form><br /><br><br><br><br><br><br><br><br><br><br></td></tr></table><div id="footer800">
+<table cellspacing="2" cellpadding="2" border="0" width="800" summary="layout table: footer">
+<tr>
+<td>&nbsp;</td>
+<td colspan="3"><hr /></td>
+</tr>
+<tr valign="top">
+<td id="footert800d1"><a href="http://www.USA.gov/"><img src="http://radar.weather.gov/ridge/graphics/firstgovlogo.jpg" alt="FirstGov.gov is the U.S. government's official web portal" width="120" height="33" /></a></td>
+<td id="footert800d2">
+National Weather Service, NOAA<br>
+1325 East-West Highway<br>
+Silver Spring, MD 20910
+</td>
+
+
+<td id="footert800d3"><a href="http://www.weather.gov/disclaimer.php">Disclaimer</a><br />
+<a href="http://www.weather.gov/credits.php">Credits</a><br />
+<a href="http://www.weather.gov/glossary/">Glossary</a></td>
+<td id="footert800d4"><a href="http://weather.gov/privacy.php">Privacy Policy</a><br />
+<a href="http://www.weather.gov/admin.php">About Us</a><br />
+<a href="http://www.weather.gov/careers.php">Career Opportunities</a></td>
+</tr>
+</table>
+<!-- <div id="tag800">NATIONAL WEATHER SERVICE: <span class="italic">for Safety, for Work, for Fun</span> - FOR LIFE</div> -->
+</div></div>
+<!-- left nav content -->
+<div id="leftnav">
+<br><div class="centeralign"><label for="zipcity" class="yellow">Local weather forecast by &quot;City, St&quot; or zip code</label><br /><form method="post" action="../zipcity.php"><div class="searchinput"><input type="text" id="zipcity" name="inputstring" size="12" value="City, St" onfocus="if(this.value=='City, St')this.value='';" /><input type="submit" name="Go2" value="Go" /></div></form><br><br></div></div></body></html>
